@@ -1,0 +1,3 @@
+[submodule "joint_diffusion"]
+	path = joint_diffusion
+	url = https://github.com/tristan-deep/joint-diffusion
